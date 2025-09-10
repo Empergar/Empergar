@@ -11,13 +11,6 @@
   I am a computer engineer with a strong interest in bioinformatics. I love learning new technologies and applying them to solve complex problems.
 </p>
 
-## 🎧 Now Playing on Spotify
-<p align="left">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pks4f3k4au6yeb0de1p1tp7vk&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pks4f3k4au6yeb0de1p1tp7vk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=5bcb57&bar_color_cover=false" alt="Now Playing">
-    </a>
-</p>
-
 ## Featured Projects
 <p align="left">
   - Genomic Data Analysis: Exploration and analysis of high-throughput sequencing data.<br>
