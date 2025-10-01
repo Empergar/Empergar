@@ -19,7 +19,6 @@
 
 ## ✨ Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Empergar&show_icons=true&theme=tokyonight&hide_border=true&locale=en">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Empergar&theme=material-palenight" alt="Weekly Commit Stats">
 </p>
 
