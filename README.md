@@ -17,10 +17,7 @@
   - **Developer tooling:** CLI utilities, workflow automation, and clean, testable code.
 
 
-## ✨ Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Empergar&theme=material-palenight" alt="Weekly Commit Stats">
-</p>
+## ✨ Statss
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Empergar&theme=material-palenight&hide_border=true&area=true)
 
