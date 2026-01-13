@@ -17,7 +17,7 @@
   - **Developer tooling:** CLI utilities, workflow automation, and clean, testable code.
 
 
-## ✨ Statss
+## ✨ Stats
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Empergar&theme=material-palenight&hide_border=true&area=true)
 
